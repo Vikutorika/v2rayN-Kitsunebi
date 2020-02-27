@@ -1,0 +1,1 @@
+为使用jsdelivr下载，在这里备份v2RayNG（Android）和v2RayX（OSX）
